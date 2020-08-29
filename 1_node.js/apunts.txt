@@ -1,0 +1,20 @@
+** Node.js **
+# npm install express --save -> --save para decir que la necesitamos para iniciar nuestra app.
+# Template engine handlebars -> npm i hbs
+# npm install body-parser --save -> para obtener valores en el body
+# npm update -> actualizar dependencias
+# npm i jsonwebtoken
+# Podemos generar variables globales en heroku
+# RegExp -> para mejorar el resultado de las busquedas
+
+** MongoDB **
+# Instalación de MongoDB en windows -> https://www.youtube.com/watch?v=2KMQdqDk9e8
+# Iniciar mongodb -> mongod
+# npm install mongoose --save -> Instalar mongoose
+# npm i mongoose-unique-validator -> personalizar mensajes cuándo usamos unique.
+# npm i underscore -> por ejemplo nos permite asignar que elementos queremos actualizar. Los otros elementos no se actualizaran.
+# mLab -> un servicio de mongoDB en la nube.
+# .populate -> cargar información de otras tablas que tengan relación.
+
+** Sockets **
+# npm i socket.io --save

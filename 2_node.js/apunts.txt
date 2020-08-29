@@ -1,0 +1,25 @@
+** node.js **
+# npm init
+# npm i express dotenv -> dotenv variables globales
+# npm i -D nodemon -> -D indica que guarde en dependencias de desarrollo.
+# npm i mongoose
+# OPCIONAL para pintar la consola node.js -> npm i colors
+# Los modelos se escriben en mayusculas y los controladores en minúsculas.
+# npm i slugify -> slug url
+# npm i node-geocoder -> obtener datos lt y altura con la dirección.
+# npm i express-fileupload -> subir archivos con node.js
+# npm install jsonwebtoken -> JWT
+# npm install cookie-parser -> crear cookies
+# npm install express-mongo-sanitize -> evitar ataque SQL-injection
+# npm i helmet -> prevenir ataque XSS
+# npm i xss-clean -> prevenir escritura para ataque XSS
+# npm i express-rate-limit hpp -> limitar las peticiones y entradas masivas de parámetros
+# npm i cors
+
+
+** Contenido **
+# Custom Error Handling  Mongoose Middleware
+# Mongoose Advanced Querying  Relationships
+# Authentication, Users, Permissions 
+# API Security
+# Documentation, Deploy
